@@ -16,11 +16,9 @@ function Project() {
               </div>
               <div className="col-xl-4 col-lg-5">
                 <div className="featured-text text-center text-lg-left">
-                  <h4>Shoreline</h4>
+                  <h4>Sample Project 1</h4>
                   <p className="text-black-50 mb-0">
-                    Grayscale is open source and MIT licensed. This means you
-                    can use it for any project - even commercial projects!
-                    Download it, customize it, and publish your website!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad tempore, itaque maiores dolor nostrum exercitationem quasi architecto magni eligendi accusamus culpa vel voluptas rem consequuntur dolorum libero quibusdam voluptatibus.
                   </p>
                 </div>
               </div>
@@ -34,7 +32,7 @@ function Project() {
                 <div className="bg-black text-center h-100 project">
                   <div className="d-flex h-100">
                     <div className="project-text w-100 my-auto text-center text-lg-left">
-                      <h4 className="text-white">Misty</h4>
+                      <h4 className="text-white">Sample Project 2</h4>
                       <p className="mb-0 text-white-50">
                         An example of where you can put an image of a project,
                         or anything else, along with a description.
@@ -54,7 +52,7 @@ function Project() {
                 <div className="bg-black text-center h-100 project">
                   <div className="d-flex h-100">
                     <div className="project-text w-100 my-auto text-center text-lg-right">
-                      <h4 className="text-white">Mountains</h4>
+                      <h4 className="text-white">Sample Project 3</h4>
                       <p className="mb-0 text-white-50">
                         Another example of a project with its respective
                         description. These sections work well responsively as
